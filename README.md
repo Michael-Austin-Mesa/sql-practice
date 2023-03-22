@@ -6,3 +6,6 @@ w3schools exercises
 
 hackerrank exercises
 - https://www.hackerrank.com/domains/sql
+
+hackerrank last problem solved
+- https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
