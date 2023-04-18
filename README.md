@@ -1,5 +1,5 @@
 # sql-practice
-## A list of SQL practice sites that I am using to stay sharp.
+## Keeping track of sql practice
 
 # w3schools Exercises
 - https://www.w3schools.com/mysql/exercise.asp?filename=exercise_database7
