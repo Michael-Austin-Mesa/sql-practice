@@ -7,7 +7,25 @@
 # HackerRank Exercises
 - https://www.hackerrank.com/domains/sql
 
-# HackerRank Last Problem Solved
+# HackerRank Problems Solved
+- https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true
+ 
+- https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true
+
 - https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
 
 - https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
