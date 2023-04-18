@@ -26,6 +26,20 @@
 
 - https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true
 
+- https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true
+
 - https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
 
 - https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
