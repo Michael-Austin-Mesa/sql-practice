@@ -20,7 +20,11 @@
 
 - https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true
 
+- https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true
+
 - https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true
 
 - https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true
 
@@ -45,6 +49,20 @@
 - https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true
 
 - https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true
 
 - https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
 
