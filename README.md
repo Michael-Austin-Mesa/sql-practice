@@ -40,6 +40,12 @@
 
 - https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true
 
+- https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true
+
 - https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
 
 - https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
