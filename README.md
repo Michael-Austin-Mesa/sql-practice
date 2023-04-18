@@ -46,6 +46,20 @@
 
 - https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true
 
+- https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/weather-observation-station-15/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true
+
 - https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true
 
 - https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true
@@ -64,7 +78,7 @@
 
 - https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true
 
-- https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+- https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true
 
 - https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
 
