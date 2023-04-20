@@ -83,3 +83,5 @@
 - https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
 
 - https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true&h_r=next-challenge&h_v=zen
+
+- https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true
