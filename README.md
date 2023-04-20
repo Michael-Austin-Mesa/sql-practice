@@ -85,3 +85,5 @@
 - https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true&h_r=next-challenge&h_v=zen
 
 - https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true
+
+- https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true&h_r=next-challenge&h_v=zen
