@@ -87,3 +87,5 @@
 - https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true
 
 - https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true&h_r=next-challenge&h_v=zen
+
+- https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
